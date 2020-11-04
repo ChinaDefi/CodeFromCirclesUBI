@@ -113,7 +113,12 @@ circles.garden的服务器超负荷运行，出现了很多的问题，最高时
 
 
 
-为了看起来方便，汇总了几个关键流程的代码，包括账户创建、检查信任状态、修改信任状态、转账。放在了这个代码库：https://github.com/ChinaDefi/CodeFromCirclesUBI
+为了看起来方便，汇总了几个关键流程的代码:
+
+- 账户创建 : [wb_createAcount.js](https://github.com/ChinaDefi/CodeFromCirclesUBI/blob/main/wb_createAcount.js)
+- 检查信任状态：[wb_checkIsTrusted.js](https://github.com/ChinaDefi/CodeFromCirclesUBI/blob/main/wb_checkIsTrusted.js)
+- 修改信任状态：[wb_changetust.js](https://github.com/ChinaDefi/CodeFromCirclesUBI/blob/main/wb_changetust.js)
+- 转账：[wb_translate.js](https://github.com/ChinaDefi/CodeFromCirclesUBI/blob/main/wb_translate.js)
 
 
 
