@@ -122,3 +122,6 @@ circles.garden的服务器超负荷运行，出现了很多的问题，最高时
 
 
 
+马丁在Circles论坛里面发布的 circle.garden技术概述
+
+http://aboutcircles.com/t/technical-overview-of-circles-garden/333
